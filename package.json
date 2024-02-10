@@ -1,0 +1,16 @@
+{
+  "name": "node-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.30.1",
+    "parcel-bundler": "^1.12.5",
+    "require": "^2.4.20"
+  }
+}
